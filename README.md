@@ -1,9 +1,6 @@
-# api-style-guide
+# API Style Guide
 
-------
-<p align="left">&bull;
-	<a href="#resource">Resource</a> <br/>&bull;
-</p>
+- [Resource](#resource)
 
 ## Resource
 
